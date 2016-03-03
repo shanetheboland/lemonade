@@ -38,5 +38,5 @@ $ npm run lint
 ```
 
 Built using:
-- [React-Redux-Boilerplate]("https://github.com/HunterFortuin/react-redux-boilerplate") Thanks Hunter!
+- [React-Redux-Boilerplate](https://github.com/HunterFortuin/react-redux-boilerplate) Thanks Hunter!
 
