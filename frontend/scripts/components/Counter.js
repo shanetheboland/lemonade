@@ -7,7 +7,9 @@ class Counter extends Component {
 	render() {
 		return (
 			<div>
-				<p>{this.props.counter}</p>
+				<p>Today you have pee’d</p>
+				<p className="counter-number">{this.props.counter}</p>
+				<p>times.</p>
 				<button onClick={this.handleClick.bind(this)}>I pee’d</button>
 			</div>
 		);

@@ -1,1 +1,42 @@
-// TODO
+/* colors */
+$light-yellow: #FEFEA4;
+$yellow: #FED96B;
+$blue: #100D3A;
+
+/* grayscale */
+$white: #E8E9F3;
+$gray: #A2A2A5;
+$black: #1A192B;
+
+body {
+	background-color: $light-yellow;
+	color: $black;
+	font: normal 20px/1.5 sans-serif;
+	text-align: center;
+}
+
+div {
+	margin: 100px auto;
+}
+
+p {
+	margin: 0;
+}
+
+p:last-of-type {
+	margin-bottom: 30px;
+}
+
+.counter-number {
+	font-size: 40px;
+	line-height: 1;
+}
+
+button {
+	border: 0;
+	border-radius: 3px;
+	background: $blue;
+	color: $white;
+	font-size: 150%;
+	padding: 20px 40px;
+}
