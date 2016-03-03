@@ -9,6 +9,7 @@ class App extends Component {
 		const { counter, actions } = this.props;
 		return (
 			<div>
+				<h1>Lemonade</h1>
 				<Counter counter={counter} actions={actions}/>
 			</div>
 		);
