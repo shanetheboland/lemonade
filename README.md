@@ -1,20 +1,21 @@
-# React and Redux Boilerplate
+# Lemonade
 
-A boilerplate for creating React and Redux applications!
+Keeps track of when you pee.
+A simple app built with the purpose of learning React and Redux.
 
-# Getting Started
+Demo: Nope, haven’t set up hosting yet.
 
-## Installation
+## Run this project locally
 
 ```
-$ git@github.com:HunterFortuin/react-redux-boilerplate.git
-$ cd react-redux-boilerplate
+$ git@github.com:shanetheboland/lemonade.git
+$ cd lemonade
 $ npm install
 ```
 
 ## Global NPM Modules
 
-You'll need a couple global NPM modules:
+You'll need this global NPM module:
 
 ```
 $ npm install -g xo nodemon
@@ -35,6 +36,6 @@ Linting is done using XO. It's integrated to lint code in the frontend in the we
 $ npm run lint
 ```
 
+Built using:
+- [React-Redux-Boilerplate]("https://github.com/HunterFortuin/react-redux-boilerplate") Thanks Hunter!
 
-# Todo
-- Add Test Suite

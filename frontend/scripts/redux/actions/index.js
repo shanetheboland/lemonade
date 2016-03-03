@@ -1,7 +1,12 @@
 let actions = {
-	exampleAction: () => {
+	increment: () => {
 		return {
-			type: 'EXAMPLE_ACTION'
+			type: 'INCREMENT_COUNTER'
+		};
+	},
+	decrement: () => {
+		return {
+			type: 'DECREMENT_COUNTER'
 		};
 	}
 };
