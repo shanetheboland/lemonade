@@ -1,9 +1,10 @@
 # Lemonade
 
 Keeps track of when you pee.
-A simple app built with the purpose of learning React and Redux.
 
-Demo: Nope, haven’t set up hosting yet.
+A simple app I built while learning React and Redux.
+
+*Demo:* Nope, haven’t set up hosting yet.
 
 ## Run this project locally
 
